@@ -1,7 +1,7 @@
 
-day= input ('date:-')
-mon = input('month:-')
-year= input ('year:-')
+day= '15'
+mon = '05'
+year= '1984'
 monind=  int(mon) - 1
 months= ['jan', 'feb', 'mar' ,'apr' ,'may','jun','jul','aug','sep','oct','nov','dec']
 dayin= int(day)-1
